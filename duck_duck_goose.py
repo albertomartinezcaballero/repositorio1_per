@@ -4,3 +4,4 @@ def duck_duck_goose(lista,pos):
 
     return lista[pos]
 duck_duck_goose(lista,2)
+print("nuevo comentario")
